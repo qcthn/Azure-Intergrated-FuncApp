@@ -2,7 +2,7 @@
 
 # Azure Blob and Table Storage Interaction
 
-![Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/media/storage-introduction/storage-introduction.png)
+
 
 ## Overview
 
